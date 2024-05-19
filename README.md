@@ -6,7 +6,7 @@ This project involves advanced Excel techniques to analyze a sales dataset. The 
 
 ### Requirements
 - Microsoft Excel
-- Sales dataset (shared via Discord in the group chat)
+- [Sales dataset](https://witscloud-my.sharepoint.com/:x:/g/personal/2168978_students_wits_ac_za/EUdSzYo6vnVKjp7EA9TMQY0BNWGA4tWtOor8H1VDsvpxKg?e=UTduge)
 
 ### Technologies Used
 - Microsoft Excel
@@ -93,5 +93,11 @@ This project involves advanced Excel techniques to analyze a sales dataset. The 
   - Create scenarios named "Best-Case", "Worst-Case", and "Most-Likely" with varying sales and cost values.
   - Compare the outcomes by switching between scenarios.
 
+### Results
+
+See below a snapshot of the final outcome.
+![Screenshot 2024-05-19 at 06 44 04 2024-05-19 04_44_52](https://github.com/JonasGiven/-Advanced-Excel-Analysis-with-Sales-Dataset/assets/169194581/a3358ec9-53d6-45bd-93af-27f0352dd2d0)
+To access the excel document [click here](https://witscloud-my.sharepoint.com/:x:/g/personal/2168978_students_wits_ac_za/EWrsXQKuuSZIkJOVXOGKg5cBIIsEwLcrG3OiQgbrOUstJA?e=0vhSq0).<br/>
+In order to open the file your device must atleast have Microsoft Excel or any Excel file reader software or copy the link and paste it on your browser (Google chrome, Microsoft Edge, Safari, Opera etc)
 ---
 
