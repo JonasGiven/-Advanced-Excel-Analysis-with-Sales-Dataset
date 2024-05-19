@@ -1,3 +1,4 @@
+![Copy of Black and green Data Visualization Basics modern presentation 2024-05-19 05_25_32](https://github.com/JonasGiven/-Advanced-Excel-Analysis-with-Sales-Dataset/assets/169194581/b1f3a616-4b16-4896-9482-5d874c329684)
 
 ## Advanced Excel Analysis with Sales Dataset
 
